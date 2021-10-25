@@ -1,0 +1,19 @@
+{
+  "name": "eumis-markdown",
+  "version": "1.0.0",
+  "description": "Render markdown in angularjs templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "angularjs",
+    "markdown"
+  ],
+  "dependencies": {
+      "markdown": "^0.5.0",
+      "angular-sanitize": "^1.8.2"
+  },
+  "author": "mstamenov",
+  "license": "ISC"
+}
